@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab01
-ready: true
+ready: false
 desc: "FtoC and CtoF with test cases"
-assigned: 2018-01-24 8:00:00.00-7
-due: 2018-01-28 23:59:59.59-7
+assigned: 2019-06-27
+due: 2019-07-05 23:59
 ---
 
 In this lab, you'll practice:

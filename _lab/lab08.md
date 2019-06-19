@@ -3,8 +3,8 @@ layout: lab
 num: lab08
 ready: true
 desc: "Recursion"
-assigned: 2018-03-14 8:00:00.00-7
-due: 2018-03-18 23:59:59.59-7
+assigned: 2019-07-24
+due: 2019-07-30 23:59
 ---
 
 In this lab, you'll get more practice with:

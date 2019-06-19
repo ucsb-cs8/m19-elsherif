@@ -3,8 +3,8 @@ layout: lab
 num: lab06
 ready: true
 desc: "String Formatting, Random, and File IO"
-assigned: 2018-02-28 8:00:00.00-7
-due: 2018-03-04 23:59:59.59-7
+assigned: 2019-07-18
+due: 2019-07-25 23:59
 ---
 
 In this lab, you'll get more practice with:

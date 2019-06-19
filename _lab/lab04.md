@@ -3,8 +3,8 @@ layout: lab
 num: lab04
 ready: true
 desc: "More Loops - Accumulator Pattern, Updating Lists, and Filtering Lists"
-assigned: 2018-02-14 8:00:00.00-7
-due: 2018-02-18 23:59:59.59-7
+assigned: 2019-07-09
+due: 2019-07-16 23:59
 ---
 
 In this lab, you'll get more practice with:

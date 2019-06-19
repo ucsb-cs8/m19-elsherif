@@ -3,8 +3,8 @@ layout: lab
 num: lab02
 ready: true
 desc: "Writing Functions, Tests, and using tkinter"
-assigned: 2018-01-31 8:00:00.00-7
-due: 2018-02-04 23:59:59.59-7
+assigned: 2019-07-02
+due: 2018-07-08 23:59
 ---
 
 In this lab, you'll get more practice with:
