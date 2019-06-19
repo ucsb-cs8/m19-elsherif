@@ -4,7 +4,7 @@ num: lab05
 ready: false
 desc: "2D Lists and Nested for Loops"
 assigned: 2019-07-16 
-due: 2019-02-23 23:59
+due: 2019-07-22 23:59
 ---
 
 In this lab, you'll get more practice with:
