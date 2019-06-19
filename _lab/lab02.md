@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab02
-ready: true
+ready: false
 desc: "Writing Functions, Tests, and using tkinter"
 assigned: 2019-07-02
 due: 2019-07-08 23:59

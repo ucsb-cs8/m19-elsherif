@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: true
+ready: false
 desc: "2D Lists and Nested for Loops"
 assigned: 2019-07-16 
 due: 2019-02-23 23:59
