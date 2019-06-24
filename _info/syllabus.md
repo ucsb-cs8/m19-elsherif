@@ -1,10 +1,10 @@
 ---
-title: "Course Policies"
+title: "Course Logistics"
 layout: default
 ready: true
 ---
 
-# Course Policies
+# Course Logistics
 
 ## Basic Facts
 
