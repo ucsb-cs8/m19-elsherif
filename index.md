@@ -25,6 +25,7 @@ title: "CS8, M19 Session A, ElSherif"
 {% include collapse-button.html label="Homeworks" id="hwk" %}
 <div class="collapse" id="hwk">
  <div class="card card-body">
+  * Tentative HWs are posted here but final versions will be handed out in lectures. 
   {% include hwk_table.html %}
  </div>
 </div>
@@ -32,6 +33,7 @@ title: "CS8, M19 Session A, ElSherif"
 {% include collapse-button.html label="Labs" id="lab" %}
 <div class="collapse" id="lab">
  <div class="card card-body">
+  * Assigned labs will be posted here and on the Piazza course site.
   {% include lab_table.html %}
  </div>
 </div>
