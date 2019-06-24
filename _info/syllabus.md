@@ -1,34 +1,33 @@
 ---
-title: "Syllabus"
+title: "contract"
 layout: default
 ready: true
 ---
 
-# Syllabus
+# Course Policies
 
 ## Basic Facts
 
-* **Course Web Site**: <{{ site.url}}>
+* **Course Web Site**: https://ucsb-cs8.github.io/m19-elsherif/
+* **Piazza Web Site**: Please enroll if you have not. https://piazza.com/ucsb/summer2019/cs8sessiona/
 * **Instructor**:  {{site.instructor}}
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
 * **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via Piazza.com)
 * **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED.                                         
 
-
+## Discussions
+* All discussions and questions should be posted on our course Piazza site.
 
 ## Required Resources
-
 * Textbook: "Introduction to Computing Using Python" - Ljubomir Perkovic, 2nd edition
-* iclicker: Used in class participation (purchase at the book store)
-
 
 ## Graded Components
 
-* Midterm (2): 30%  
-* Final      : 30 % 
+* Midterm    : 25%  
+* Final      : 35 % 
 * Hwks       : 10%
-* Labs       : 30%
-* Programming Assignment (1): 2% Extra Credit
+* Labs       : 28%
+* Lab Attendance: 2% 
 
 ## What you will learn in this course
 
@@ -72,7 +71,7 @@ for CMPSC&nbsp;16 (aka CS16, the next programming course):
 * How to write code that other people can read and understand 
 
 
-More information about this course is available at [this link](/w19-mirza/info/about/)
+More information about this course is available at [this link](/m19-elsherif/info/about/)
 
 ## Final Grade Assignment
 
@@ -131,11 +130,10 @@ A+ grades: These may be awarded to the very best performing students in the clas
 ## A Few Course Policies In Brief
 
 * If you are registered for another UCSB course  that overlaps with this one, you MUST HAVE specific written permission from both instructors, or I am within my rights to give you a failing grade on any work you miss as a result, and will NOT make any accommodations for you.  This includes exams.
-* You are permitted one sheet of notes on exams—details later on the syllabus.
 * Collaboration is only permitted when specifically allowed for—otherwise, you must do your own work.
    * On most homework assignments you may collaborate with at most one other person (who must be named).
    * If you are working with a pair partner you must make sure that you add your partner on the assignment on gradescope before you begin the assignment. All parts of the assignment should be completed together using the pair programming style.
-* Attendance is required at all lectures and labs (discussion sections) and is checked via participation using the iclickers
+* Attendance is required at all lectures and labs (discussion sections).
   * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable.  Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we just drop the lowest three grades from everyone's homework/in-class assignment grades.  In this way, absenses (or failure to turn in homework) does not unduly penalize your grade unless it becomes excessive.
 * <strong>You</strong> must turn in your homework in your registered lab section on the due date
 
@@ -178,12 +176,6 @@ drop the lowest 3 homework/in-class-assignment grades (which may be
 zeros if you miss an assignment.) Each homework and in-class-activity
 will be of equal value (100 pts).
 
-## Notes sheets on exams
-
--   You are permitted one 8.5 x 11 (standard US letter size paper) sheet of notes for each exam.
--   You are permitted only one sheet per exam.
--   Your notes sheet will be collected and WILL NOT BE RETURNED
--   So, if you need a copy of it, make a copy BEFORE you come to the exam.
 
 ## Questions about grades
 
