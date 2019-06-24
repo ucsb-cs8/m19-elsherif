@@ -21,14 +21,14 @@ title: "CS8, M19 Session A, ElSherif"
  </div>
 </div>
 
-{% include collapse-button.html label="Homework" id="hwk" %}
+{% include collapse-button.html label="Homeworks" id="hwk" %}
 <div class="collapse" id="hwk">
  <div class="card card-body">
   {% include hwk_table.html %}
  </div>
 </div>
 
-{% include collapse-button.html label="Labs and Project" id="lab" %}
+{% include collapse-button.html label="Labs" id="lab" %}
 <div class="collapse" id="lab">
  <div class="card card-body">
   {% include lab_table.html %}
