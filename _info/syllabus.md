@@ -4,6 +4,8 @@ layout: default
 ready: true
 ---
 
+{% include 'syllabus.md' %}
+
 # Course Logistics
 
 ## Basic Facts
