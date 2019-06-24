@@ -1,11 +1,11 @@
 ---
-title: Syllabus
+title: Lectures
 permalink: "/lectures/"
 ---
 
 # {{site.course}}, {{site.quarter}}
 
-## Syllabus:
+## Lectures:
 
 | Num  | Date | Description | Reading |
 | ------| ------- | ------|------- |
