@@ -6,5 +6,8 @@ permalink: "/lectures/"
 # {{site.course}}, {{site.quarter}}
 
 ## Syllabus:
-{% include lectures_table.html %}
+| Num  | Date | Description | Reading |
+| ------| ------- | ------|------- |
+Lecture 1|	Tue 06/25|	Introduction | Ch 01 |
+
 
