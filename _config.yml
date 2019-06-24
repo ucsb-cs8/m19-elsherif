@@ -118,5 +118,3 @@ defaults:
       type: info
     values:
       layout: handout
-
-theme: jekyll-theme-minimal
