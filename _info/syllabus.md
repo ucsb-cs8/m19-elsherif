@@ -118,7 +118,6 @@ The formula to determine your course grade average is explained in the table bel
 Regardless of any other policies spelled out here, the average used to determine your final letter grade may be no higher than one full letter grade higher than your exam average.
 
 Thus,
-
 -   reasonably good performance on exams is very important to earning a good final grade in the course.
 -   an A or B should not be out of reach for anyone that has a reasonably good mastery of course concepts (enough to earn a B or C on the exams), and puts in hard work on the labs and project points.
 
@@ -134,7 +133,7 @@ A+ grades: These may be awarded to the very best performing students in the clas
    * On most homework assignments you may collaborate with at most one other person (who must be named).
    * If you are working with a pair partner you must make sure that you add your partner on the assignment on gradescope before you begin the assignment. All parts of the assignment should be completed together using the pair programming style.
 * Attendance is required at all lectures and labs (discussion sections).
-  * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable.  Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we just drop the lowest three grades from everyone's homework/in-class assignment grades.  In this way, absenses (or failure to turn in homework) does not unduly penalize your grade unless it becomes excessive.
+  * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable.  Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we just drop the lowest two grades from everyone's homework grades.  In this way, absenses (or failure to turn in homework) does not unduly penalize your grade unless it becomes excessive.
 * <strong>You</strong> must turn in your homework in your registered lab section on the due date
 
 
@@ -156,24 +155,18 @@ You may NOT:
 This course moves quickly. So attendance is very important.  This is even more true when the course is scheduled in a 6 week summer session.
 
 As a result, there will be something you have to turn in at almost
-every class. In this way, attendance is taken, and required.
+every class. 
 
-These things you have to turn in will be a combination of in-class
-activities, and homework completed outside of class, but handed in on
-paper during class.
+Lab attendance constitutes 2% of your grade. You are allowed to miss only ONE lab in order to get the full 2% dedicated to lab attendance.
 
-## Missing homework/in-class activities
+## Missing homework
 
-Homeworks will be distributed in lecture, and they should be turned in in labs on the due date 
+Homeworks will be distributed in lecture on Wednesdays, and they should be turned in in labs on the due date 
 
-
-If you miss a class or section, you miss the opportunity for the points on that
-in-class assignment, or homework that was due. Period.
 
 
 There is no makeup. In lieu of providing a makeup opportunity, I will
-drop the lowest 3 homework/in-class-assignment grades (which may be
-zeros if you miss an assignment.) Each homework and in-class-activity
+drop the lowest 2 homework grades (which may be zeros if you miss an assignment.) Each homework
 will be of equal value (100 pts).
 
 
@@ -226,21 +219,15 @@ long line of students), then you lose the right to appeal your grade.
 </div>
 
 
-## Late Labs
+## Labs
 
-The policy is simple, and is based on the idea that the primary
-purpose of the deadlines is to allow the TA manage his/her
-workload. The number of labs in this course requires that he/she not
-have to do "context switching" between grading different labs. All
-labs must be graded in one sitting, or he/she just won't be able to
-keep up with the workload.
+* It is expected that you attend the lab section you signed up for. This way it is easier to load balance the labs and make sure that the TAs are helping everyone in their sections.
+* Labs will be due evey Sunday at midnight.
 
-So:
+Lateness:
 
 -   If you want your work to be graded without penalty, turn it in on time.
--   If you turn in your lab late, you RISK GETTING A ZERO.
--   We will grade late labs ONLY if it creates no extra inconvenience for the graders, and we WILL impose a penalty between 10-20% (see the individual grading rubrics for the labs.)
--   There is NO GUARANTEE that late labs will be graded at all. The TA will simply start work at some point after the deadline, and grade until he/she is finished. At that time, he/she will "close the books" on that particular lab, and any work not submitted at that time will NOT be considered.
+-   If you turn in your lab late, you RISK GETTING A ZERO. You loose 10% every 12 hours after the lab is due.
 
 ## Accommodations for disabilities
 
