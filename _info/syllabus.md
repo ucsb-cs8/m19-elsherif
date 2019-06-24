@@ -11,7 +11,7 @@ ready: true
 * **Course Web Site**: <{{ site.url}}>
 * **Instructor**:  {{site.instructor}}
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
-* **TAs**: {{ site.ta_names}}(contact via Piazza.com)
+* **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via Piazza.com)
 * **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED.                                         
 
 
