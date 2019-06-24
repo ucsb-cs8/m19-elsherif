@@ -14,7 +14,7 @@ title: "CS8, M19 Session A, ElSherif"
 </div>
 
 
-{% include collapse-button.html label="Lecture Notes and Slides" id="lectures" %}
+{% include collapse-button.html label="Syllabus" id="lectures" %}
 <div class="collapse" id="lectures">
  <div class="card card-body" markdown="1">
    {%include lectures_table.html %}
