@@ -8,8 +8,8 @@ ready: true
 
 ## Basic Facts
 
-* **Course Web Site**: https://ucsb-cs8.github.io/m19-elsherif/
-* **Piazza Web Site**: Please enroll if you have not. https://piazza.com/ucsb/summer2019/cs8sessiona/
+* **Course Web Site**: (https://ucsb-cs8.github.io/m19-elsherif/)
+* **Piazza Web Site**: Please enroll if you have not. (https://piazza.com/ucsb/summer2019/cs8sessiona/)
 * **Instructor**:  {{site.instructor}}
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
 * **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via Piazza.com)
