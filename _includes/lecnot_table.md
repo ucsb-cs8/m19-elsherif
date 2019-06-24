@@ -1,29 +1,27 @@
-<table class="asn_table">
 
-<tr>
-  <th class="asn_desc" >lecture date</th>
-  <th class="asn_num"  >notes</th>
-  <th class="asn_ready">ready?</th>
-  <th class="asn_desc" >description</th>
-  <th class="asn_num" >slides before</th>
-  <th class="asn_num" >slides after</th>
-</tr>
+| Num  | Date | Description | Reading |
+| ------| ------- | ------|------- |
+Lecture 1|	Tue 06/25|	Introduction to Computer Science | Ch 01 |
+Lecture 2|	Wed 06/26|	Python Data Types (algebraic, boolean, and strings) | Ch 02 |
+Lecture 3|	Thur 06/27|	Python Data Types (lists and tuples)| Ch 02 |
+ ------ | ------- | ------|------- |
+Lecture 4|	Tue 07/02|	Functions | Ch 03 |
+Lecture 5|	Wed 07/03|	Mutable vs Immutable Types, Flow Control | Ch 03 |
+ ------| ------- | ------|------- |
+Lecture 6|	Tue 07/09|	Nesting Flow Control, Python Modules | Ch 03 |
+Lecture 7|	Wed 07/10|	Midterm Review | Ch 01-03 |
+Lecture 8|	Thur 07/11|	Midterm| Ch 01-03 |
+ ------| ------- | ------|------- |
+Lecture 9|	Tue 07/16|	Loop Patterns| Ch 05 |
+Lecture 10|	Wed 07/17|	More Loop Patterns, 2D Lists | Ch 05 |
+Lecture 11|	Thur 07/18|	String Formatting, random module| Ch 04,06 |
+------| ------- | ------|------- |
+Lecture 12|	Tue 07/23|	File I/O| Ch 04 |
+Lecture 13|	Wed 07/24|	Sets and Dictionaries | Ch 06 |
+Lecture 14|	Thur 07/25|	More on Sets and Dictionaries| Ch 06 |
+------ | ------- | ------|------- |
+Lecture 15|	Tue 07/30|	Recursion| Ch 10 |
+Lecture 16|	Wed 07/31|	Final Review | Ch 01-06, 10 |
+Lecture 17|	Thur 08/1|	Final| Ch 01-06, 10 |
 
-{% for lect in site.lectures %}
- 
-<tr class={% if lect.ready %}"ready"{% else %}"not-ready"{% endif %} >
-  <td class="lect_num" >{{lect.lecture_date}}</td>
-  <td class="lect_num" ><a href="{{lect.url | relative_url }}" data-ajax="false">{{ lect.num }}</a></td>
-  <td class="lect_ready">{{lect.ready}}</td>
-  <td class="lect_desc" >{{lect.desc }}</td>
-  <td class={% if lect.ready %}"lect_num"  ><a href="{{lect.pdfurl | relative_url }}" data-ajax="false">pdf</a>{% else %}"lect_num"  ><a href="" data-ajax="false"></a>{% endif %}</td>
-  <td class={% if lect.annotatedready %}"lect_num"  ><a href="{{lect.annotatedpdfurl | relative_url }}" data-ajax="false">Annotated pdf</a>{% else %}"lect_num"  ><a href="" data-ajax="false"></a>{% endif %}</td>
 
-</tr>
-
-{% if lect.last_before %}
-<tr><th colspan="5">{{lect.last_before}}</th></tr>
-{% endif %}
-
-{% endfor %}
-</table>
