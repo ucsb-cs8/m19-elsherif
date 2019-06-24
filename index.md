@@ -17,6 +17,7 @@ title: "CS8, M19 Session A, ElSherif"
 {% include collapse-button.html label="Syllabus" id="lectures" %}
 <div class="collapse" id="lectures">
  <div class="card card-body" markdown="1">
+  * Lecture PDFs and code snippets will be uploaded on Piazza course site.
    {%include lectures_table.html %}
  </div>
 </div>
