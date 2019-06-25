@@ -41,7 +41,7 @@ title: "CS8, M19 Session A, ElSherif"
 {% include collapse-button.html label="Programming Assignments" id="lab" %}
 <div class="collapse" id="lab">
  <div class="card card-body">
-  * Assigned labs will be posted here and on the Piazza course site.
+  * Assigned labs will be posted here.
   {% include lab_table.html %}
  </div>
 </div>
