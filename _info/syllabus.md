@@ -14,7 +14,8 @@ ready: true
 * **Piazza Web Site**: Please enroll if you have not. <https://piazza.com/ucsb/summer2019/cs8sessiona/>
 * **Instructor**:  {{site.instructor}}
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
-* **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via Piazza.com)
+* **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via email or Piazza.com)
+* **Emails**: amiri@cs.ucsb.edu, kburk@ucsb.edu, yunzhao@cs.ucsb.edu, zekiduman@ucsb.edu
 * **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED.                                         
 
 ## Discussions
