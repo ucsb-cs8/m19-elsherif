@@ -15,7 +15,7 @@ ready: true
 * **Instructor**:  {{site.instructor}}
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
 * **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via email or Piazza.com)
-* **Emails**: amiri@cs.ucsb.edu, kburk@ucsb.edu, yunzhao@cs.ucsb.edu, zekiduman@ucsb.edu
+* **Emails**: <amiri@cs.ucsb.edu>, <kburk@ucsb.edu>, <yunzhao@cs.ucsb.edu>, <zekiduman@ucsb.edu>
 * **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED.                                         
 
 ## Discussions
