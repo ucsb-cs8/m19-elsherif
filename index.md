@@ -14,7 +14,7 @@ title: "CS8, M19 Session A, ElSherif"
 </div>
 
 
-{% include collapse-button.html label="Lectures" id="lectures" %}
+{% include collapse-button.html label="Syllabus" id="lectures" %}
 <div class="collapse" id="lectures">
  <div class="card card-body" markdown="1">
   * Lecture PDFs and code snippets will be uploaded on Piazza course site.
@@ -23,7 +23,7 @@ title: "CS8, M19 Session A, ElSherif"
 </div>
 
 
-{% include collapse-button.html label="Syllabus" id="syllabus" %}
+{% include collapse-button.html label="Logistics" id="syllabus" %}
 <div class="collapse" id="syllabus">
  <div class="card card-body" markdown="1">
    {%include syllabus.md %}
@@ -38,7 +38,7 @@ title: "CS8, M19 Session A, ElSherif"
  </div>
 </div>
 
-{% include collapse-button.html label="Labs" id="lab" %}
+{% include collapse-button.html label="Programming Assignments" id="lab" %}
 <div class="collapse" id="lab">
  <div class="card card-body">
   * Assigned labs will be posted here and on the Piazza course site.
@@ -47,7 +47,7 @@ title: "CS8, M19 Session A, ElSherif"
 </div>
 
 
-{% include collapse-button.html label="Exams" id="exams" %}
+{% include collapse-button.html label="Previous Exams" id="exams" %}
 <div class="collapse" id="exams">
  <div class="card card-body">
   {%include exam_table.html %}
