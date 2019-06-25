@@ -1,4 +1,4 @@
-show_optional_vs_required_column: true
+show_optional_vs_required_column: false
 
 plugins:
   - jekyll-remote-theme
