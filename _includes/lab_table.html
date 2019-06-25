@@ -4,7 +4,9 @@
   <th class="asn_num"  >num</th>
   <th class="asn_ready">ready?</th>
   <th class="asn_desc" >description</th>
+  {% if site.show_optional_vs_required_column %}
    <th class="asn_desc" >required or optional</th>
+  {% endif %}
   <th class="asn_date" >assigned</th>
   <th class="asn_date" >due</th>
 </tr>
@@ -16,7 +18,9 @@
   <td class="asn_num"  ><a href="{{asn.url | relative_url}}" data-ajax="false">{{ asn.num }}</a></td>
   <td class="asn_ready">{{asn.ready}}</td>
   <td class="asn_desc" >{{ asn.desc }}</td>
+      {% if site.show_optional_vs_required_column %}
   <td class="asn_desc" >{% if asn.optional %}optional{% else %}required{% endif %}</td>
+      {% endif %}
   <td class="asn_date" >{{asn.assigned | date: "%a %m/%d %I:%M%p"  }}</td> 
   <td class="asn_date" >{{asn.due | date: "%a %m/%d %I:%M%p" }}</td>
 </tr>
