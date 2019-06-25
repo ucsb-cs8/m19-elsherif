@@ -1,3 +1,5 @@
+show_optional_vs_required_column: false
+
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
