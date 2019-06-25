@@ -6,8 +6,8 @@ ready: true
 
 # Professor {{site.instructor}}'s Office Hours
 
-* Location: TBA
-* Time: TBA
+* Location: Phelps 3526
+* Time: Monday 3-5pm
 
 
 # Lab Hours
