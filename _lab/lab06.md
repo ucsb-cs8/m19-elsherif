@@ -4,7 +4,7 @@ num: lab06
 ready: false
 desc: "String Formatting, Random, and File IO"
 assigned: 2019-07-22
-due: 2019-07-28 23:59
+due: 2019-07-29 23:59
 ---
 
 In this lab, you'll get more practice with:
