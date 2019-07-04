@@ -223,7 +223,7 @@ long line of students), then you lose the right to appeal your grade.
 ## Labs
 
 * It is expected that you attend the lab section you signed up for. This way it is easier to load balance the labs and make sure that the TAs are helping everyone in their sections.
-* Labs will be due evey Sunday at 11:59 pm except for the last lab.
+* Labs will be due evey Sunday/Monday at 11:59 pm except for the last lab.
 
 Lateness:
 
