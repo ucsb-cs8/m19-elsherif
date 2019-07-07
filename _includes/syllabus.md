@@ -1,4 +1,3 @@
-
 # Course Logistics
 
 ## Basic Facts
@@ -7,7 +6,8 @@
 * **Piazza Web Site**: Please enroll if you have not. <https://piazza.com/ucsb/summer2019/cs8sessiona/>
 * **Instructor**:  {{site.instructor}}
 * **Lecture**: {{ site.lecture_times}}, {{ site.lecture_location}}
-* **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via Piazza.com)
+* **TAs**: Mohammad Amiri, Kevin Burk, Yun Zhao, and Zeki Duman (contact via email or Piazza.com)
+* **Emails**: <amiri@cs.ucsb.edu>, <kburk@ucsb.edu>, <yunzhao@cs.ucsb.edu>, <zekiduman@ucsb.edu>
 * **Lab** (50 minute closed lab sections), {{ site.lab_times}} ATTENDANCE REQUIRED.                                         
 
 ## Discussions
@@ -125,11 +125,10 @@ A+ grades: These may be awarded to the very best performing students in the clas
 
 * If you are registered for another UCSB course  that overlaps with this one, you MUST HAVE specific written permission from both instructors, or I am within my rights to give you a failing grade on any work you miss as a result, and will NOT make any accommodations for you.  This includes exams.
 * Collaboration is only permitted when specifically allowed for—otherwise, you must do your own work.
-   * On most homework assignments you may collaborate with at most one other person (who must be named).
    * If you are working with a pair partner you must make sure that you add your partner on the assignment on gradescope before you begin the assignment. All parts of the assignment should be completed together using the pair programming style.
 * Attendance is required at all lectures and labs (discussion sections).
   * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable.  Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we just drop the lowest two grades from everyone's homework grades.  In this way, absenses (or failure to turn in homework) does not unduly penalize your grade unless it becomes excessive.
-* <strong>You</strong> must turn in your homework in your registered lab section on the due date
+* <strong>You</strong> must turn in your homework in the registered lecture on the due date
 
 
 You may NOT: 
@@ -156,8 +155,7 @@ Lab attendance constitutes 2% of your grade. You are allowed to miss only ONE la
 
 ## Missing homework
 
-Homeworks will be distributed in lecture on Wednesdays, and they should be turned in in labs on the due date 
-
+Homeworks will be distributed in lecture on Tuesdays, and they should be turned in lectures on the due date 
 
 
 There is no makeup. In lieu of providing a makeup opportunity, I will
@@ -217,7 +215,7 @@ long line of students), then you lose the right to appeal your grade.
 ## Labs
 
 * It is expected that you attend the lab section you signed up for. This way it is easier to load balance the labs and make sure that the TAs are helping everyone in their sections.
-* Labs will be due evey Sunday at midnight.
+* Labs will be due evey Sunday/Monday at 11:59 pm except for the last lab.
 
 Lateness:
 
