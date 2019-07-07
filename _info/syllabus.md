@@ -136,7 +136,7 @@ A+ grades: These may be awarded to the very best performing students in the clas
    * If you are working with a pair partner you must make sure that you add your partner on the assignment on gradescope before you begin the assignment. All parts of the assignment should be completed together using the pair programming style.
 * Attendance is required at all lectures and labs (discussion sections).
   * I recognize that some absences (e.g. minor illnesses, mishaps, etc.) are unavoidable.  Litigating whether each of these is "excused" or not isn't a good use of anyone's time, so instead we just drop the lowest two grades from everyone's homework grades.  In this way, absenses (or failure to turn in homework) does not unduly penalize your grade unless it becomes excessive.
-* <strong>You</strong> must turn in your homework in your registered lab section on the due date
+* <strong>You</strong> must turn in your homework in the registered lecture on the due date
 
 
 You may NOT: 
@@ -163,7 +163,7 @@ Lab attendance constitutes 2% of your grade. You are allowed to miss only ONE la
 
 ## Missing homework
 
-Homeworks will be distributed in lecture on Mondays, and they should be turned in lectures on the due date 
+Homeworks will be distributed in lecture on Tuesdays, and they should be turned in lectures on the due date 
 
 
 There is no makeup. In lieu of providing a makeup opportunity, I will
