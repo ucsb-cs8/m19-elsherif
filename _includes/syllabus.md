@@ -1,4 +1,3 @@
-# Course Logistics
 
 ## Basic Facts
 
