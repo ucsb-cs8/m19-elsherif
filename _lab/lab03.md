@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab03
-ready: false
+ready: true
 desc: "Conditionals, Nested Control Structures, and Loops"
 assigned: 2019-07-08
 due: 2019-07-15 23:59
