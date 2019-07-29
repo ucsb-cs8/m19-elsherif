@@ -1,10 +1,10 @@
 ---
 layout: lab
 num: lab08
-ready: false
+ready: true
 desc: "Recursion"
 assigned: 2019-07-29
-due: 2019-08-02 23:59
+due: 2019-08-03 23:59
 ---
 
 In this lab, you'll get more practice with:
