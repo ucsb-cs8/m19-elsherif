@@ -89,8 +89,8 @@ Then, copy this function definition into your
 
 ```
 def perimRect(length,width):
-   """ Compute perimeter of a rectangle """
-   return -42.0 # stub  @@@ replace this stub with the correct code @@@   
+    """ Compute perimeter of a rectangle """
+    return -42.0 # stub  @@@ replace this stub with the correct code @@@   
 ```
 
 Then, copy these function definitions into your file. These are a special kind of function called a <em>test case</em>.  These particular test cases are written in the style used by the <em>pytest</em> testing framework, and they follow these rules:
@@ -103,13 +103,13 @@ Then, copy these function definitions into your file. These are a special kind o
 
 ```
 def test_perimRect_1():
-   assert perimRect(4,5)==18
+    assert perimRect(4,5)==18
 
 def test_perimRect_2():
-   assert perimRect(7,3)==20
+    assert perimRect(7,3)==20
 
 def test_perimRect_3():
-   assert perimRect(2.1,4.3)==pytest.approx(12.8)
+    assert perimRect(2.1,4.3)==pytest.approx(12.8)
 ```
 
 Finally, run the code, and ensure that you don't have any syntax errors in your Python code.
@@ -201,7 +201,7 @@ In this step, you must define three test cases to test `areaTriangle`. The code 
 
 ```
 def test_areaTriangle_1():
-	assert areaTriangle(4,5) == 10
+    assert areaTriangle(4,5) == 10
 ```
 
 The second and third test case should be one that you come up with yourself. The restrictions are:
@@ -236,7 +236,7 @@ Write three test functions to test if `computePrice` works as expected. The code
 
 ```
 def test_computePrice_1():
-	assert computePrice(0, b1) == 0
+    assert computePrice(0, b1) == 0
 ```
 
 Write two more test cases, `test_computePrice_2` and `test_computePrice_3` with different values for `n`. Be sure to test if your code works with "Run Module" and use `python3 -m pytest {{page.num}}.py -k computePrice` to run just the test cases for the `computePrice` function.
@@ -272,15 +272,13 @@ Copy and paste the following function definition and function call in your `{{pa
 
 ```python
 def drawFace():
-	""" Draw a face on the canvas """
-	# Draw head
-	canvas.create_oval(100, 100, 400, 400)
+    """ Draw a face on the canvas """
+    # Draw head
+    canvas.create_oval(100, 100, 400, 400)
 
-	# TODO: Draw left eye
-
-	# TODO: Draw right eye
-
-	# TODO: Draw mouth
+    # TODO: Draw left eye
+    # TODO: Draw right eye
+    # TODO: Draw mouth
     
 drawFace()
 ```
